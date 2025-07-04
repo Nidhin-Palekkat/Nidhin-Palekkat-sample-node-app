@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/ec2-user/sample-node-app
+sudo yum install -y nodejs
+npm install
